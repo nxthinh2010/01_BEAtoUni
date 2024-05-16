@@ -6,3 +6,7 @@ https://github.com/cerevo/BlueNinja_BLE_EXAMPLE/tree/master/src/drivers/include
 
 BMP280_STM32 C++
 https://github.com/lukas-th/BMP280_STM32
+
+Most likely good
+https://github.com/MarkSherstan/STM32-MPU6050-MPU9250-I2C-SPI/tree/main
+
