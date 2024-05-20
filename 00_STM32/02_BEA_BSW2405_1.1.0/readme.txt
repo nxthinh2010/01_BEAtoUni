@@ -1,6 +1,6 @@
 History:
 
-18/05/2024 Thinh: BEA_BSW2405_1.1.0
+20/05/2024 Thinh: BEA_BSW2405_1.1.0
 - DevDreivers 
 	+ VL53L01
 	+ INA219
