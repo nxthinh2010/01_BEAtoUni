@@ -2,7 +2,9 @@ History:
 
 18/05/2024 Thinh: BEA_BSW2405_1.1.0
 - DevDreivers 
-	+VL53L01
+	+ VL53L01
+	+ INA219
+	+ MPU9250
 - Draft version
 18/05/2024 Thinh: BEA_BSW2405_1.0.0
 - BSW for FreeRTOS with base timer TIM4, include 4 threads
